@@ -1,0 +1,38 @@
+.cartForm {
+    width: 100%;
+    padding: 20px;
+  }
+  
+  .cartForm-container {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  .cartForm-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .cartForm-signup label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .cartForm-signup input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .cartForm-signup input[type='date'],
+  .cartForm-signup input[type='time'] {
+    appearance: none; /* Hide the default arrow on date and time inputs */
+  }
+  
+  .cartForm-signup input[type='date']::-webkit-calendar-picker-indicator,
+  .cartForm-signup input[type='time']::-webkit-calendar-picker-indicator {
+    display: none; /* Hide the default calendar picker */
+  }
