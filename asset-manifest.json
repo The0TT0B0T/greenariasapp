@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/greenariasapp/static/css/main.f1b5b37f.css",
+    "main.js": "/greenariasapp/static/js/main.0263d652.js",
+    "static/js/453.67ea6d3b.chunk.js": "/greenariasapp/static/js/453.67ea6d3b.chunk.js",
+    "static/media/flowerbed.jpg": "/greenariasapp/static/media/flowerbed.bec7ea32b3578f206a24.jpg",
+    "static/media/fall-cleanup.jpeg": "/greenariasapp/static/media/fall-cleanup.7d126d3142d5ec0ff196.jpeg",
+    "static/media/newTree.png": "/greenariasapp/static/media/newTree.8a46a770fff4abd40d5b.png",
+    "static/media/down spout.jpeg": "/greenariasapp/static/media/down spout.babe267acbe7dfadc423.jpeg",
+    "static/media/Resized_20220218_095126.jpeg": "/greenariasapp/static/media/Resized_20220218_095126.64b7c6241a55d78fa9e2.jpeg",
+    "static/media/lawn-mowing.jpg": "/greenariasapp/static/media/lawn-mowing.40d5da0e05b3695abc60.jpg",
+    "static/media/spring cleanup.jpg": "/greenariasapp/static/media/spring cleanup.3f25ca13409b918a2df2.jpg",
+    "static/media/trimming trees.jpg": "/greenariasapp/static/media/trimming trees.7f77f2a831dde0b295bb.jpg",
+    "static/media/edging.jpg": "/greenariasapp/static/media/edging.7d451198f5990e57fb6c.jpg",
+    "static/media/mulch1.jpg": "/greenariasapp/static/media/mulch1.956b86b9586ce36ef72c.jpg",
+    "static/media/hedge trimming.jpg": "/greenariasapp/static/media/hedge trimming.1defd6376abc75e16412.jpg",
+    "static/media/sod.jpg": "/greenariasapp/static/media/sod.d6c40c1e8c046d758e7e.jpg",
+    "static/media/Resized_20230206_132232.jpg": "/greenariasapp/static/media/Resized_20230206_132232.ab756718443a494ace6e.jpg",
+    "static/media/leaf-cleaning - Copy - Copy - Copy.jpg": "/greenariasapp/static/media/leaf-cleaning - Copy - Copy - Copy.16b04d368e9d2551c4df.jpg",
+    "static/media/SnowTruck.jpeg": "/greenariasapp/static/media/SnowTruck.ff0b5e34acb55eaacefd.jpeg",
+    "static/media/snowJob.jpg": "/greenariasapp/static/media/snowJob.2009c09e35d681e0fb91.jpg",
+    "static/media/hand_icon.png": "/greenariasapp/static/media/hand_icon.9c7487cecb600f30901b.png",
+    "static/media/Green-Aria's-logo2.png": "/greenariasapp/static/media/Green-Aria's-logo2.d1819845c4a559a8c0ba.png",
+    "static/media/landscaping_banner.png": "/greenariasapp/static/media/landscaping_banner.0fa0b11698e158c4202d.png",
+    "static/media/Lawn-Areation-Service-in-FL.jpg": "/greenariasapp/static/media/Lawn-Areation-Service-in-FL.c886462221924a9fb4b5.jpg",
+    "static/media/riverRock.jpeg": "/greenariasapp/static/media/riverRock.76ed471c90c323606b6a.jpeg",
+    "index.html": "/greenariasapp/index.html",
+    "main.f1b5b37f.css.map": "/greenariasapp/static/css/main.f1b5b37f.css.map",
+    "main.0263d652.js.map": "/greenariasapp/static/js/main.0263d652.js.map",
+    "453.67ea6d3b.chunk.js.map": "/greenariasapp/static/js/453.67ea6d3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1b5b37f.css",
+    "static/js/main.0263d652.js"
+  ]
+}
