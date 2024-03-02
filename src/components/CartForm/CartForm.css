@@ -36,3 +36,49 @@
   .cartForm-signup input[type='time']::-webkit-calendar-picker-indicator {
     display: none; /* Hide the default calendar picker */
   }
+
+  @media(max-width:1280px) {
+    .cartForm {
+        margin: 60px 50px;
+    }
+    .cartForm-format-main {
+        grid-template-columns: 0.5fr 3fr 0.5fr 0.5fr 0.5fr 0.5fr;
+        gap: 20px;
+        padding: 15px 0px;
+        font-size: 15px;
+    }
+    .carticon-product-icon {
+        height: 50px;
+    }
+    .cartForm-remove-icon {
+        margin: auto;
+    }
+    .cartForm-quantity {
+        width: 40px;
+        height: 30px;
+    }
+    .cartForm-down {
+        margin: 80px 0px;
+        flex-direction: column;
+        gap: 80px;
+    }
+    .cartForm-total {
+        margin: 0;
+    }
+    .cartForm-button {
+        max-width: 200px;
+        height: 45px;
+        font-size: 13px;
+    }
+  }
+
+  @media(max-width:500px) {
+    .cartForm-format-main {
+        display: none;
+        grid-template-columns: 0.5fr 3fr 0.5fr;
+        gap: 10px;
+    }
+    .cartForm-format {
+        display: grid;
+    }
+  }
